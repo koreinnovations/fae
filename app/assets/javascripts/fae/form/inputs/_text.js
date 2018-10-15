@@ -104,6 +104,7 @@ Fae.form.text = {
         ['foreColor', 'backColor'],
         ['preformatted'],
         ['horizontalRule'],
+        ['removeformat'],
         ['fullscreen']
       ],
       plugins: {
